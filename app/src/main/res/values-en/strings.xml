@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">weight Calculator</string>
+    <string name="zayif">thin</string>
+    <string name="ideal">ideal</string>
+    <string name="normalden_fazla">more than normal</string>
+    <string name="fazla_kilo">"overweight "</string>
+    <string name="obez">obese</string>
+    <string name="doktora">doctorate</string>
+    <string name="Boy">Size</string>
+    <string name="Kilo">Weight</string>
+    <string name="Cinsiyet">Gender</string>
+    <string name="Kadın">Woman</string>
+    <string name="Erkek">Man</string>
+    <string name="idealKilo">ideal Size</string>
+    <string name="Durum">State</string>
+</resources>

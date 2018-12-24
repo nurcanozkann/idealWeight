@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kiloHesap</string>
+    <string name="zayif">Zayıf durumdasınız</string>
+    <string name="ideal">İdeal Kilodasınız.</string>
+    <string name="normalden_fazla">Normalden Fazla kilodasınız.</string>
+    <string name="fazla_kilo">Fazla Kilolusunuz.</string>
+    <string name="obez">Artık obezsiniz.</string>
+    <string name="doktora">Doktora görünmelisiniz.</string>
+
+
+    <string name="Boy">Boy:</string>
+    <string name="Kilo">Kilo :</string>
+    <string name="Cinsiyet">Cinsiyet</string>
+    <string name="Kadın">Kadın</string>
+    <string name="Erkek">Erkek</string>
+    <string name="idealKilo">İdeal Kilonuz:</string>
+    <string name="Durum">Durum:</string>
+</resources>
